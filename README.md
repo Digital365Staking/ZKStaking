@@ -80,7 +80,7 @@
 
 <h3>Phase 1: Specification & Research</h3>
 <ul>
-  <li>Document Cardano staking certificate format.</li>
+  <li><a href="https://cardanoproject.blog/2025/06/04/ada-to-tao-staking-guide-cardano-certificate-format-for-bittensor/">Document Cardano staking certificate format.</a></li>
   <li>Design ZK circuit with Circom or Noir.</li>
   <li>Define protocol interfaces for TAO validators.</li>
 </ul>
