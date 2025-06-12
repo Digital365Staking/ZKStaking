@@ -55,7 +55,7 @@
 </ol>
 
 <h3>4.3 Architecture Diagram</h3>
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/141919081/451331921-230b1e23-7c21-49b7-8324-5eddf114a15c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250604%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250604T103521Z&X-Amz-Expires=300&X-Amz-Signature=7dab02c7afc22b2a04f502ac1e72927700b86850ba94823303d8c512480414c5&X-Amz-SignedHeaders=host" alt="Image"/>
+<img src="https://cardanoproject.blog/wp-content/uploads/2025/06/copilot_20250604_123310.png" alt="Image"/>
 
 <h2>5. Cryptographic Proof Design</h2>
 
